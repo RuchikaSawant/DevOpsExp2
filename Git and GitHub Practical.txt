@@ -1,0 +1,15 @@
+Git and GitHub Practical
+
+Repository: DevOps-Practical
+
+Task Performed:
+1. Created a Repository
+2. Uploaded a File (Push)
+3. Created a Branch
+4. Modified the File
+5. Created a Pull Request
+6. Merged Changes
+
+Prepared By:
+Ruchika Sawant
+M.Tech IT
